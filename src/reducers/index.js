@@ -5,7 +5,7 @@ const songsReducer = () => {
       {title: 'No Scrubs', duration: '4:05'},
       {title: 'Macarena', duration: '2:30'},
       {title: 'All Stars', duration: '2:14'},
-      {title: 'IWant It That Way', duration: '3:15'}
+      {title: 'I Want It That Way', duration: '3:15'}
   ];
 };
 
